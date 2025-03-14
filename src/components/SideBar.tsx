@@ -23,7 +23,7 @@ const SideBar = ({ user }: SiderbarProps) => {
                     />
                     <h1
                         className='sidebar-logo'
-                    >Horizon</h1>
+                    >BANK</h1>
                 </Link>
                 {sidebarLinks.map((item) => {
                    const isActive = item.route === "/" ? pathname === "/" : pathname.startsWith(item.route);

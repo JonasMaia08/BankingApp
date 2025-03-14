@@ -40,7 +40,7 @@ const MobileNav = ({ user }: MobileNavProps) => {
                         />
                         <h1
                             className='sidebartext-26 font-ibm-plex-serif font-bold text-black-1'
-                        >Horizon</h1>
+                        >Bank</h1>
                     </Link>
                     <div className='mobilenav-sheet'>
 
